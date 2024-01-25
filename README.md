@@ -1,7 +1,7 @@
 # Sys.TEAM.es.md
 A repository and catchment for showcasing community scripts inspired by 'A Scriptkiddie Scriptoria:...', for the edification and employ, of the (fabled): 'Scripting Scriptkiddie Scriptoria' a.k.a. project codename 'THE Sys.teAm.es Repository.MD'. 
 
-The repository name is a play on the 'Pluralism of 'Systemically' putting the 'A' in 'Team', with a nominal and honorary 'Doctorate':
+The repository name is an archaic play on the 'Pluralism of 'Systemically' putting an 'A' in 'Team', with a nominal and honorary 'Doctorate':
 
 **WIKTIONARY**
 
