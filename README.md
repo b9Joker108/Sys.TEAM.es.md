@@ -32,4 +32,4 @@ NOTE: This centralised Nushell GitHub community collective script repository, is
 
 https://github.com/b9Joker108/nu_scripts
 
-I feel it would be execellent to have a co-ordinated script base, where a script tendered in one shell scripting dialect, is also met and checked, as well as qualified point-coynterpoint, with a comparable scripting solution and execution, in all the other shell dialects. This co-ordinated dialogue and showcase, would be profoundly useful and edifying, for its localised and interrogable, comparative and comparable executions.
+As an aspiration, I feel it would be execellent to house a co-ordinated script base or showcase, where a script tendered in one shell scripting dialect, is also met and checked, as well as qualified point-coynterpoint, with a comparable scripting solution and execution, in all the other extant shell scripting dialects. This tender this co-ordinated dialogue and showcase, would be profoundly useful and edifying, for its centralised (and easily `git clone` localised and/or easily `git` forked) and interrogable, democratically and easily accessible, comparative and comparable solutions and executions.
